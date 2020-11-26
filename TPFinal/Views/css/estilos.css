@@ -1,0 +1,176 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  align-items: center;
+ 
+  /*  fondo de pantalla*/
+  background: url(https://www.wallpapertip.com/wmimgs/95-958782_cinema-screen-png.png)no-repeat center center fixed;
+
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+  
+}
+.content-hieght{
+  padding: 1em;
+  margin:auto;
+  background-color: hsla(0, 1%, 53%, 0.356);
+  height: 600px;
+  width: 450px;
+
+}
+.content-xxl{
+  background-color: hsl(0, 8%, 12%);
+  text-align: center;
+  align-items: center;
+  justify-items: center;
+  width:90%; 
+  margin: auto;
+  margin-top: 75px;
+  border-radius: 5%;
+  border: 1px solid rgb(7, 1, 32);
+  box-shadow: 0px 0px 10px 0px  rgb(15, 0, 0);
+}
+.content-users{
+  background-color: hsl(0, 8%, 12%);
+  text-align: center;
+  align-items: center;
+  justify-items: center;
+  width:90%; 
+  margin: auto;
+  padding: 1em;
+  margin-top: 75px;
+  border-radius: 1%;
+  border: 1px solid rgb(7, 1, 32);
+  box-shadow: 0px 0px 10px 2px  rgb(15, 0, 0);
+}
+.content-grande{
+
+  background-color: hsl(0, 0%, 67%);
+  text-align: center;
+  align-items: center;
+  justify-items: center;
+  width:800px; 
+  margin: auto;
+  margin-top: 75px;
+  padding: 1em;
+  border-radius: 1%;
+  border: 1px solid rgb(7, 1, 32);
+  box-shadow: 0px 0px 10px 2px  rgb(15, 0, 0);
+}
+.content-chico{
+  background-color: hsl(0, 0%, 67%);
+  text-align: center;
+  align-items: center;
+  justify-items: center;
+  width:400px; 
+  margin: auto;
+  margin-top: 75px;
+  border-radius: 5%;
+  border: 1px solid rgb(7, 1, 32);
+  box-shadow: 0px 0px 10px 0px  rgb(15, 0, 0);
+}
+.content-login{
+  background-color: hsl(0, 0%, 67%);
+  text-align: center;
+  align-items: center;
+  justify-items: center;
+  width:350px; 
+  margin: auto;
+  margin-top: 75px;
+  border-radius: 5%;
+  border: 1px solid rgb(7, 1, 32);
+  box-shadow: 0px 0px 10px 0px  rgb(15, 0, 0);
+  
+
+}
+.form-signin {
+  width: 100%; 
+  max-width: 600px;
+  padding: 15px;
+  margin: auto;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.cartelera-content{
+  background: url(https://pm1.narvii.com/6600/d6c5f36f8227b9c3af3d2b323bc6e55055d30ce9_hq.jpg)no-repeat  center center fixed;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+  width: 90%;
+  border: 1px  rgb(7, 1, 32);
+  box-shadow: 0px 0px 10px 10px  rgb(15, 0, 0);
+  background-color: hsl(0, 0%, 67%);
+
+
+  margin: auto;
+}
+.volver{
+  bottom: 0;
+  
+}
+
+.text-center{
+  text-align: center;
+}
+.admin-login{
+  width: 100%; 
+  border-radius: 5%;
+   background: url(https://cdn.ticbeat.com/src/uploads/2018/07/hacker-810x540.jpg)no-repeat center center ;
+}
+.vuelvas-protos{
+  margin:auto;
+  width: 500px;
+  height: 500px;
+  border: 1px  rgb(7, 1, 32);
+  box-shadow: 0px 0px 10px 5px  rgb(15, 0, 0);
+}
+.imagen-cartelera{
+
+  width: 300px;
+  height: 450px;
+  border: 1px  rgb(7, 1, 32);
+  box-shadow: 0px 0px 10px 5px  rgb(15, 0, 0);
+}
+li .none{
+  margin-left: 2em;
+  list-style: none;
+}
+.user-register{
+  background-color: hsl(0, 0%, 67%);
+  text-align: center;
+  align-items: center;
+  justify-items: center;
+  width:1000px; 
+  margin: auto;
+  margin-top: 75px;
+  border-radius: 5%;
+  border: 1px  rgb(7, 1, 32);
+  box-shadow: 0px 0px 10px 0px  rgb(15, 0, 0);
+}
